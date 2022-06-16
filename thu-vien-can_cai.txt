@@ -1,0 +1,23 @@
+npm init
+npm install --save-dev nodemon
+npm install express --save
+
+npm install mongodb --save
+npm install mongoose --save
+
+npm install dotenv
+
+npm install body-parser
+
+huy
+sMu6yj1MuE1IcGML
+
+mongodb+srv://koyomi:Lz1dmwUL4OxP1gNv@cluster0.kylxp.mongodb.net/koyomi_food?retryWrites=true&w=majority
+
+vào package.jon thay:
+"scripts": {
+    "start": "nodemon index.js"
+  },
+
+  tạo theo mô hình mvc
+  tạo 3 thư mục
